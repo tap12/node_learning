@@ -1,3 +1,11 @@
+var plik1 = require('./file1');
+// require('./file2');
+
+console.log(plik1.x);
+
+
+
+
 var server = require('http');
 
 server.createServer(function (request, response) {
