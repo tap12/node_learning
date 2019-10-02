@@ -1,3 +1,4 @@
+require('./lib/file3');
 var plik1 = require('./file1');
 // require('./file2');
 
